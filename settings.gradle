@@ -1,1 +1,2 @@
-include ':Kaleidoscope'
+include ':app'
+rootProject.name = "Kaleidoscope"
